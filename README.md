@@ -45,6 +45,7 @@ Thanks to ~WerWolv for creating Tesla environment, and ~cucholix + ~Monked for t
 
 # Sync Wait
 In those games you can disable double buffer vsync by turning off Window Sync Wait in FPSLocker:
+- Lego 2K Drive (requires double buffer to be enabled)
 - Pokemon Legends: Arceus
 - Pokemon Scarlet
 - Pokemon Violet
